@@ -53,29 +53,29 @@
 
 Далее даем название проекту и указываем его рассположение.Путь к проекту не должен содержать русских символов, т.к. это может привести к ошибкам во время сборки.
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/Screenshot_2.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/Screenshot_2.png?raw=true)
 
 Рисунок 2. Размещение проекта
       
 Во вкладке " Система сборки" оставляем настройки по-умолчанию.
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/Screenshot_3.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/Screenshot_3.png?raw=true)
 
 Рисунок 3. Настройка системы сборки
 
 Так же поступаем и во вкладках " Выбор комплекта" и "Управление проектом"
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/Screenshot_4.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/Screenshot_4.png?raw=true)
 
 Рисунок 4. Выбор комплекта
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/Screenshot_5.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/Screenshot_5.png?raw=true)
 
 Рисунок 4. Управление проектом
 
 В-конце концов,проект создан.
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/Screenshot_6.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/Screenshot_6.png?raw=true)
 
 Рисунок 5. Проект
 
@@ -83,13 +83,13 @@
 
 В верхней строке выбираем "Инструменты" и в них параметры.Откроется следующее окно:
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/Screenshot_1.1.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/Screenshot_1.1.png?raw=true)
 
 Рисунок 6. Параметры
 
 Во вкладке "Среда" настраиваем нужные парвметры.
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/Screenshot_2.1.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/Screenshot_2.1.png?raw=true)
 
 Рисунок 7. Изменение оформления среды
 
@@ -118,7 +118,7 @@
 1 способ: сочетание клавиш
 2 способ: нажать на зеленую треугольную кнопку в левом нижнем углу
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/9.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/9.png?raw=true)
 
 Рисунок 9. Кнопка запуска без отладки
 
@@ -127,7 +127,7 @@
 1 способ: сочетание клавиш
 2 способ:нажать на зеленую треугольную кнопку с "жучком"  в левом нижнем углу
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/9.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/9.png?raw=true)
 
 Рисунок 10. Кнопка запуска с отладки
 **Как установить/убрать точку останова (breakpoint)?**
@@ -135,33 +135,33 @@
 1 способ: нажать F9;
 2 способ: нажать павой кнопкой мыши на нужную строчку и выбрать нужный параметр.
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/11.jpg)
+![](https://github.com/alexzolfff/lab7/blob/master/img/11.jpg?raw=true)
 
 Рисунок 11. Установка точки установа
 
 
 **Создаем программу с следующим кодом:**
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/%D0%BA%D0%BE%D0%B4.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/код.png?raw=true)
 
 Рисунок 12. Код программы
 
 **Переключаемся в конфигурацию сборки «Отладка»;**
 **Устанавливаем breakpoint на 5, 6 и 7 строках;**
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/%D0%BA%D0%BE%D0%B4%20%D1%81%20%D1%82%D0%BE%D1%87%D0%BA%D0%B0%D0%BC%D0%B8.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/код%20с%20точками.png?raw=true)
 
 Рисунок 13.Установка точек останова.
 
 **Запускаем приложение щелкнув по кнопке с изображением жука .**
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/1%20%D1%82%D0%BE%D1%87%D0%BA%D0%B0.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/1%20точка.png?raw=true)
 
 Рисунок 14. Первая точка останова
 
 **Используем эту же кнопку для перехода к следующей точке останова;**
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/2%20%D1%82%D0%BE%D1%87%D0%BA%D0%B0.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/2%20точка.png?raw=true)
 
 Рисунок 15. Вторая точка останова
 
@@ -175,7 +175,7 @@
 
 **Какие значение содержатся в переменных i и  d в 7й строке?**
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/%D0%B2%207%20%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B5.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/в%207%20строке.png?raw=true)
 
 Рисунок 16. Значение аеременных в  7 строке
 
@@ -185,19 +185,19 @@
 
 **Закрываем проект и переходим на вкладку «Начало» => «Примеры»;**
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/примеры.png?raw=true)
 
 Рисунок 17. Вкладка Начало
 
 **Выбераем проект «Calculator Form Example».**
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/калькулятор.png?raw=true)
 
 Рисунок 18.Проект «Calculator Form Example»
 
 **Изучаем описание проекта в открывшемся окне;**
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/%D0%B8%D0%B7%D1%83%D1%87%D0%B8%D1%82%D0%B5.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/изучите.png?raw=true)
 
 Рисунок 19. Проект в открывшемся окне
 
@@ -205,25 +205,25 @@
 
 В инспекторе проекта выберите файл «main.cpp».
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/show.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/show.png?raw=true)
 
 Рисунок 20. Выбераем файл «main.cpp».
 
 В этом файле устанавливаем курсор на слово «show» в строке calculator.show(); и нажмаем F1.
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/справка.png?raw=true)
 
 Рисунок 21. Вывод справки
 
 **В инспекторе проекта выбераем файл «Формы» => «calculatorform.ui» ;**
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/дизайн.png?raw=true)
 
 Рисунок 22. Вкладка Дизайн
 
 **На форме заменяем английский текст на русский. Пересобираем проект.**
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%20%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B1%D0%BE%D1%80.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/калькулятор%20пересбор.png?raw=true)
 
 Рисунок 23. Пересобранный проект
 
