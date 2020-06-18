@@ -47,7 +47,7 @@
 **Как создать консольное приложение С++ в IDE Qt Creator без использования компонентов Qt?**
 Во вкладке проекты нажимаем на создать.В появившемся окне выбираем "Проект без QT" и "Приложение на языке C++#.
 
-![](https://github.com/MiladaKrapivina/LabWorks/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207/SkreenShot/Screenshot_1.png)
+![](https://github.com/alexzolfff/lab7/blob/master/img/Screenshot_1.png?raw=true)
 
 Рисунок 1. Выбор настроуки шаблона нового проекта.
 
